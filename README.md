@@ -7,7 +7,7 @@
    1. Click "TEST CONNECTION" to make sure everything is working correctly.
    1. ![Admin Console Screenshot](/img/admin-console-screenshot.png)
 1. Go to "NAV_ETH_displayEthTransactionGridSection" and enter in an Ethereum account hash from the main net.
-   1. ![Interface Screenshot](/img/interface-screenshot.png)
+   1. ![Interface Screenshot](/img/interface-screenshot.gif)
 
 ## Feedback
 I'd love to build out the app further and add more functionality. Please shoot me a quick note if you use the app or find an Appian-blockchain integration interesting. You can reach me at [@corbpage](https://twitter.com/corbpage) or [corbin.page@gmail.com](mailto:corbin.page@gmail.com).
